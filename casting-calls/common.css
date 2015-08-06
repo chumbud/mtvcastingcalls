@@ -46,7 +46,7 @@ nav {
 }
 .mtv-logo {
     width: 65px;
-    background-image: url('55661e5281b211231d4309cc_MTV_regular.svg');
+    background-image: url('https://raw.githubusercontent.com/de-Mote/mtvcastingcalls/master/casting-calls/55661e5281b211231d4309cc_MTV_regular.svg');
     margin-left: -9px;
     display: inline-block;
 }
@@ -71,7 +71,7 @@ nav {
     background-color: black;
     padding: 20px;
     display: inline-block;
-    background-image: url(chevron.png);
+    background-image: url(https://raw.githubusercontent.com/de-Mote/mtvcastingcalls/master/casting-calls/chevron.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 50%;
