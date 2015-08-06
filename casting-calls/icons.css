@@ -1,0 +1,307 @@
+@charset "UTF-8";
+@font-face {
+    font-family: 'mtv';
+    src: url('55661e5281b211231d4309cc_MTV_regular.svg');
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    font-family: 'mtv';
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Enable Ligatures ================ */
+    -webkit-font-feature-settings: "liga";
+    -moz-font-feature-settings: "liga=1";
+    -moz-font-feature-settings: "liga";
+    -ms-font-feature-settings: "liga" 1;
+    -o-font-feature-settings: "liga";
+    font-feature-settings: "liga";
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-zoom-in:before {
+    content: "\e600";
+}
+.icon-zoom-out:before {
+    content: "\e601";
+}
+.icon-actions-add:before {
+    content: "\e602";
+}
+.icon-actions-close:before {
+    content: "\e603";
+}
+.icon-actions-pause:before {
+    content: "\e604";
+}
+.icon-actions-play:before {
+    content: "\e605";
+}
+.icon-actions-remove:before {
+    content: "\e606";
+}
+.icon-adchoice:before {
+    content: "\e607";
+}
+.icon-arrow-bottom-left:before {
+    content: "\e608";
+}
+.icon-arrow-bottom-right:before {
+    content: "\e609";
+}
+.icon-arrow-down:before {
+    content: "\e60a";
+}
+.icon-arrow-left:before {
+    content: "\e60c";
+}
+.icon-arrow-right:before {
+    content: "\e60d";
+}
+.icon-arrow-up:before {
+    content: "\e60e";
+}
+.icon-artwork-paintbrush:before {
+    content: "\e60f";
+}
+.icon-artwork-pen:before {
+    content: "\e610";
+}
+.icon-artwork-pencil:before {
+    content: "\e611";
+}
+.icon-chevron-up:before {
+    content: "\e619";
+}
+.icon-chevron-down:before {
+    content: "\e612";
+}
+.icon-chevron-left:before {
+    content: "\e613";
+}
+.icon-chevron-right:before {
+    content: "\e614";
+}
+.icon-chevron-thin-down:before {
+    content: "\e615";
+}
+.icon-chevron-thin-left:before {
+    content: "\e616";
+}
+.icon-chevron-thin-right:before {
+    content: "\e617";
+}
+.icon-chevron-thin-up:before {
+    content: "\e618";
+}
+.icon-comment-bubble:before {
+    content: "\e61a";
+}
+.icon-commerce-add:before {
+    content: "\e61b";
+}
+.icon-datas-grid-2:before {
+    content: "\e61c";
+}
+.icon-datas-grid:before {
+    content: "\e61d";
+}
+.icon-datas-list-2:before {
+    content: "\e61e";
+}
+.icon-datas-list:before {
+    content: "\e643";
+}
+.icon-file-multiple:before {
+    content: "\e620";
+}
+.icon-file:before {
+    content: "\e621";
+}
+.icon-foursquare:before {
+    content: "\e622";
+}
+.icon-infos-alert:before {
+    content: "\e623";
+}
+.icon-infos-info:before {
+    content: "\e624";
+}
+.icon-infos-question:before {
+    content: "\e625";
+}
+.icon-lock:before {
+    content: "\e626";
+}
+.icon-logo-mtv:before {
+    content: "\e627";
+}
+.icon-logo-mtv2:before {
+    content: "\e61f";
+}
+.icon-logo-vh1:before {
+    content: "\e629";
+}
+.icon-logo-viacom:before {
+    content: "\e62a";
+}
+.icon-mail:before {
+    content: "\e62b";
+}
+.icon-multimedia-camera:before {
+    content: "\e62c";
+}
+.icon-multimedia-music-note:before {
+    content: "\e62d";
+}
+.icon-multimedia-television:before {
+    content: "\e62e";
+}
+.icon-multimedia-video:before {
+    content: "\e62f";
+}
+.icon-navigation-goto-page:before {
+    content: "\e630";
+}
+.icon-navigation-popout:before {
+    content: "\e631";
+}
+.icon-places-map-pin:before {
+    content: "\e632";
+}
+.icon-quotes:before {
+    content: "\e633";
+}
+.icon-rating-flag:before {
+    content: "\e634";
+}
+.icon-rating-heart-outline:before {
+    content: "\e635";
+}
+.icon-rating-heart:before {
+    content: "\e636";
+}
+.icon-rating-star:before {
+    content: "\e637";
+}
+.icon-rating-thumb-down:before {
+    content: "\e638";
+}
+.icon-rating-thumb-up:before {
+    content: "\e639";
+}
+.icon-refresh-update:before {
+    content: "\e63a";
+}
+.icon-search:before {
+    content: "\e63b";
+}
+.icon-settings:before {
+    content: "\e63c";
+}
+.icon-share-embed:before {
+    content: "\e63d";
+}
+.icon-share-facebook:before {
+    content: "\e63e";
+}
+.icon-share-google-plus:before {
+    content: "\e63f";
+}
+.icon-share-instagram:before {
+    content: "\e640";
+}
+.icon-share-pinterest:before {
+    content: "\e641";
+}
+.icon-share-rss:before {
+    content: "\e642";
+}
+.icon-share-sharing:before {
+    content: "\e63";
+}
+.icon-share-tumblr:before {
+    content: "\e644";
+}
+.icon-share-twitter:before {
+    content: "\e645";
+}
+.icon-share-vine:before {
+    content: "\e646";
+}
+.icon-shop-android:before {
+    content: "\e647";
+}
+.icon-shop-apple:before {
+    content: "\e648";
+}
+.icon-shop-windows:before {
+    content: "\e649";
+}
+.icon-size-extend:before {
+    content: "\e64a";
+}
+.icon-size-full-size:before {
+    content: "\e64b";
+}
+.icon-size-minimize:before {
+    content: "\e64c";
+}
+.icon-tag:before {
+    content: "\e64f";
+}
+.icon-tags-multiple:before {
+    content: "\e650";
+}
+.icon-time-alarm-bell:before {
+    content: "\e651";
+}
+.icon-time-clock:before {
+    content: "\e652";
+}
+.icon-top-comment:before {
+    content: "\e653";
+}
+.icon-transfer-download:before {
+    content: "\e654";
+}
+.icon-transfer-upload:before {
+    content: "\e655";
+}
+.icon-trending-1:before {
+    content: "\e656";
+}
+.icon-trending-2:before {
+    content: "\e657";
+}
+.icon-triangle-down:before {
+    content: "\e658";
+}
+.icon-triangle-left:before {
+    content: "\e659";
+}
+.icon-triangle-right:before {
+    content: "\e65a";
+}
+.icon-triangle-up:before {
+    content: "\e65b";
+}
+.icon-arrow-dropdown:before {
+    content: "\e60b";
+}
+.icon-user-multiple:before {
+    content: "\e65c";
+}
+.icon-user:before {
+    content: "\e65d";
+}
+.icon-validation:before {
+    content: "\e65e";
+}

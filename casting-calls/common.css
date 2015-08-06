@@ -1,0 +1,112 @@
+* {
+     margin: 0px;
+     padding: 0px;
+     -moz-box-sizing: border-box;
+     -webkit-box-sizing: border-box;
+     box-sizing: border-box;
+}
+body {
+    font-family: 'AkzidenzGrotesk';
+}
+h1 {
+    font-weight: 800;
+    font-size: 42px;
+    letter-spacing: 1px;
+    margin-top: 20px;
+}
+p {
+    margin-top: 20px;
+}
+a {
+    color: #00ceff;
+    text-decoration: none;
+}
+a:hover {
+    color: #00acd4;
+}
+section {
+    width: 100%;
+}
+.header {
+    background-color: black;
+    height: 150px;
+}
+#space {
+    border-bottom: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #363636;
+    height: 100px;
+}
+nav {
+    height: 50px;
+    padding-left: 15px;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.mtv-logo {
+    width: 65px;
+    background-image: url('55661e5281b211231d4309cc_MTV_regular.svg');
+    margin-left: -9px;
+    display: inline-block;
+}
+.casting-calls {
+    max-width: 900px;
+    padding-left: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.title {
+    display: inline-block;
+    font-weight: 700;
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    line-height: 50px;
+}
+.dropdown {
+    width: 50px;
+    height: 50px;
+    float: right;
+    background-color: black;
+    padding: 20px;
+    display: inline-block;
+    background-image: url(chevron.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 50%;
+}
+.dropdown:hover {
+    background-color: #3b3b3b;
+}
+footer {
+    padding-left: 10px;
+    height: 70px;
+    background-color: #8d8d8d;
+    margin-top: 150px;
+}
+.small {
+    font-size: 20px;
+    line-height: 70px;
+}
+.mtv-logo-footer {
+    height: 70px;
+    padding: 10px;
+}
+#blog-footer {
+    width: 220px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#sub-footer {
+    color: #8d8d8d;
+    background-color: #e6e6e6;
+    padding: 30px;
+}
+.sub-footer-container {
+    max-width: 900px;
+    width: 100%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
